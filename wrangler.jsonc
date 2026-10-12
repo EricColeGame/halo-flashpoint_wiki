@@ -1,0 +1,14 @@
+{
+  "name": "halo-flashpoint-wiki",
+  "compatibility_date": "2024-09-01",
+  "workers_dev": false,
+  "assets": {
+    "directory": "./out"
+  },
+  "routes": [
+    {
+      "pattern": "halo-flashpoint.wiki",
+      "custom_domain": true
+    }
+  ]
+}
