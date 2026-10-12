@@ -33,6 +33,6 @@ export const siteConfig: SiteConfig = {
     youtube: "https://www.youtube.com/@manticgames",
     reddit: "https://www.reddit.com/r/halo/",
   },
-  locales: ["en", "es", "pt", "de", "fr"],
+  locales: ["en", "de", "fr", "es"],
   defaultLocale: "en",
 };
