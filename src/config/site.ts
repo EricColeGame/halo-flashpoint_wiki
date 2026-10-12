@@ -11,6 +11,7 @@ export interface SiteConfig {
   social?: {
     discord?: string;
     youtube?: string;
+    reddit?: string;
     twitter?: string;
     tiktok?: string;
   };
@@ -25,11 +26,12 @@ export const siteConfig: SiteConfig = {
   tagline: "Rules, Miniatures, Factions & Tactics",
   description: "Fan-made Halo Flashpoint wiki for the Halo miniatures game: core rules, miniature ranges, factions, team building, painting guides and tactical tips.",
   url: process.env.NEXT_PUBLIC_SITE_URL || "https://halo-flashpoint.wiki",
-  supportEmail: `support@${new URL(process.env.NEXT_PUBLIC_SITE_URL || "https://halo-flashpoint.wiki").hostname.replace(/^www\./, "")}`,
-  gameUrl: "https://haloflashpoint.manticgames.com/",
+  supportEmail: "support@halo-flashpoint.wiki",
+  gameUrl: "https://haloflashpoint.com/",
   heroVideoId: "0PAIfSUy6k8", // Mantic Games official "How to Play Halo: Flashpoint" tutorial
   social: {
     youtube: "https://www.youtube.com/@manticgames",
+    reddit: "https://www.reddit.com/r/halo/",
   },
   locales: ["en", "es", "pt", "de", "fr"],
   defaultLocale: "en",

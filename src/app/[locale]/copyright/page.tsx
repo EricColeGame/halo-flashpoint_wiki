@@ -3,9 +3,9 @@ import { LegalPage } from "@/components/legal-page";
 export default function CopyrightPage() {
   return (
     <LegalPage title="Copyright">
-      <p>VV: ULTIMATUM, Roblox, Bleach-inspired concepts, logos, and related media belong to their respective owners.</p>
-      <p>This clone is a non-official fan wiki implementation for educational and guide presentation purposes.</p>
-      <p>If you own rights to content displayed here and have a concern, please contact the site operator for review.</p>
+      <p>Halo, Halo Flashpoint, and all related names, logos, artwork, and miniatures belong to Microsoft Corporation, 343 Industries, and Mantic Games. This is an unofficial fan project.</p>
+      <p>Guide text published on halo-flashpoint.wiki is written by the community and presented for informational and educational purposes.</p>
+      <p>If you own rights to content displayed here and have a concern, please contact support@halo-flashpoint.wiki for review.</p>
     </LegalPage>
   );
 }
