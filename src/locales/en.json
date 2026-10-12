@@ -6,7 +6,17 @@
     "description": "Fan-made Halo Flashpoint wiki for the Halo miniatures game: core rules, miniature ranges, factions, team building, painting guides and tactical tips.",
     "legalNotice": "Unofficial Halo Flashpoint fan wiki. Not affiliated with Microsoft, 343 Industries, or Mantic Games."
   },
-  "nav": {},
+  "nav": {
+    "home": "Home",
+    "menu": "Menu",
+    "toggleTheme": "Toggle theme",
+    "guide": "Guide",
+    "rules": "Rules",
+    "mechanics": "Mechanics",
+    "units": "Units",
+    "factions": "Factions",
+    "painting": "Painting"
+  },
   "home": {
     "meta": {
       "title": "Halo Flashpoint Wiki - Miniatures, Rules & Guides",
@@ -445,13 +455,33 @@
       "secondary": "Visit the Official Site"
     }
   },
-  "bosses": {},
+  "guide": {
+    "overviewTitle": "Halo Flashpoint Beginner Guides",
+    "overviewDescription": "New to the tabletop skirmish game? These Halo Flashpoint guides cover starter sets, building a first fireteam, and how a full game actually plays, so you can go from opening the box to finishing a scenario in one evening."
+  },
+  "rules": {
+    "overviewTitle": "Halo Flashpoint Rules & Rulebook",
+    "overviewDescription": "The shared framework behind every Halo Flashpoint match: alternating activations, dice pools, shooting and melee, cover, energy shields, and the keywords printed on your unit cards."
+  },
+  "mechanics": {
+    "overviewTitle": "Halo Flashpoint Core Mechanics",
+    "overviewDescription": "Line of sight, list building, points, campaign play, and the game modes of Halo Flashpoint explained, so you understand why a fireteam wins or loses before the dice hit the table."
+  },
+  "units": {
+    "overviewTitle": "Halo Flashpoint Units & Heroes",
+    "overviewDescription": "Spartans, ODSTs, Elites, Grunts, Brutes, and named heroes broken down by battlefield role, cost, and the missions where each Halo Flashpoint unit earns its place."
+  },
+  "factions": {
+    "overviewTitle": "Halo Flashpoint Factions",
+    "overviewDescription": "Compare UNSC, Covenant, Banished, and Flood forces to find the Halo Flashpoint playstyle that fits you, from disciplined fireteams to brutal assault squads."
+  },
+  "painting": {
+    "overviewTitle": "Halo Flashpoint Painting & Miniatures",
+    "overviewDescription": "Get a fireteam from sprue to tabletop with Halo Flashpoint miniature ranges, prep and priming advice, faction paint schemes, terrain tips, and basing ideas."
+  },
   "shared": {
     "wikiNavigation": "Wiki Navigation",
-    "activeCodes": "Active Codes",
     "updated": "Updated",
-    "viewAllCodes": "View all codes",
-    "playOnRoblox": "Play on Roblox",
     "inThisSection": "In this section",
     "tableOfContents": "Table of Contents",
     "nextSteps": "Next Steps",
@@ -461,7 +491,9 @@
     "readMore": "Read more",
     "officialMedia": "Official media",
     "home": "Home",
-    "noGuidesAvailable": "No guides available yet. Check back soon!"
+    "noGuidesAvailable": "No guides available yet. Check back soon!",
+    "quickStart": "Quick Start",
+    "viewCoreRules": "View core rules"
   },
   "footer": {
     "aboutTitle": "Halo Flashpoint Wiki",
@@ -469,17 +501,16 @@
     "description": "Tactical tabletop miniatures skirmish game set in the Halo universe.",
     "quickLinks": "Quick Links",
     "guides": "Guides",
-    "legal": "Legal",
     "playGame": "Halo Flashpoint Official Site",
     "officialYoutube": "Official YouTube Channel",
     "officialReddit": "Halo Community (Reddit)",
-    "armyBuilder": "Halo Flashpoint Army Builder",
     "beginnerGuide": "Beginner Guide",
-    "raceGuides": "Race Guides",
-    "bossGuides": "Boss Guides",
-    "buildGuide": "Build Guide",
     "privacyPolicy": "Privacy Policy",
     "termsOfService": "Terms of Service",
-    "copyright": "2026 Halo Flashpoint Wiki. Not affiliated with Microsoft, 343 Industries, or Mantic Games."
+    "copyright": "2026 Halo Flashpoint Wiki. Not affiliated with Microsoft, 343 Industries, or Mantic Games.",
+    "coreRules": "Core Rules",
+    "factionGuides": "Faction Guides",
+    "unitGuides": "Unit Guides",
+    "paintingGuide": "Painting Guide"
   }
 }

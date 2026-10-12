@@ -237,39 +237,61 @@ export interface NavGroup {
 
 // 分组标题映射：slug → 人类可读标题（默认英文）
 const GROUP_TITLES: Record<string, string> = {
-  bosses: "Bosses",
-  races: "Races",
-  maps: "Maps & Areas",
-  skills: "Skills",
-  codes: "Codes",
   guide: "Getting Started",
-  "tier-list": "Tier Lists",
+  rules: "Rules & Rulebook",
+  mechanics: "Core Mechanics",
+  units: "Units & Heroes",
+  factions: "Factions",
+  painting: "Painting & Hobby",
 };
 
-// 日文分组标题映射
-const GROUP_TITLES_JA: Record<string, string> = {
-  bosses: "ボス",
-  races: "種族",
-  maps: "マップ & エリア",
-  skills: "スキル",
-  codes: "コード",
-  guide: "初心者ガイド",
-  "tier-list": "Tier List",
+// 德文分组标题映射
+const GROUP_TITLES_DE: Record<string, string> = {
+  guide: "Erste Schritte",
+  rules: "Regeln & Regelbuch",
+  mechanics: "Kernmechaniken",
+  units: "Einheiten & Helden",
+  factions: "Fraktionen",
+  painting: "Bemalen & Hobby",
+};
+
+// 法文分组标题映射
+const GROUP_TITLES_FR: Record<string, string> = {
+  guide: "Premiers pas",
+  rules: "Règles & Livre de règles",
+  mechanics: "Mécaniques clés",
+  units: "Unités & Héros",
+  factions: "Factions",
+  painting: "Peinture & Hobby",
+};
+
+// 西班牙文分组标题映射
+const GROUP_TITLES_ES: Record<string, string> = {
+  guide: "Primeros pasos",
+  rules: "Reglas & Reglamento",
+  mechanics: "Mecánicas clave",
+  units: "Unidades & Héroes",
+  factions: "Facciones",
+  painting: "Pintura & Hobby",
 };
 
 // locale → 分组标题映射
 const GROUP_TITLES_BY_LOCALE: Record<string, Record<string, string>> = {
-  ja: GROUP_TITLES_JA,
+  de: GROUP_TITLES_DE,
+  fr: GROUP_TITLES_FR,
+  es: GROUP_TITLES_ES,
 };
 
 // locale → "Overview" 翻译
 const OVERVIEW_LABEL_BY_LOCALE: Record<string, string> = {
-  ja: "一覧",
+  de: "Übersicht",
+  fr: "Aperçu",
+  es: "Resumen",
 };
 
 // 分组排序顺序
 const GROUP_ORDER: string[] = [
-  "guide", "races", "bosses", "maps", "skills", "codes", "tier-list",
+  "guide", "rules", "mechanics", "units", "factions", "painting",
 ];
 
 /**
