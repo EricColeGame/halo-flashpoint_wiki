@@ -39,22 +39,22 @@
         {
           "number": "1",
           "title": "Beginner Guide",
-          "description": "Master the Spirit World from day one with our comprehensive beginner guide covering controls, combat, and early progression."
+          "description": "Open the box, build a legal fireteam, and play your first Halo Flashpoint scenario in a single evening."
         },
         {
           "number": "2",
-          "title": "Fastest Leveling",
-          "description": "Dominate early game and max your progression with the most efficient leveling routes and strategies."
+          "title": "Core Rules & Keywords",
+          "description": "Learn alternating activations, dice pools, cover, energy shields, and the card keywords that decide every Halo Flashpoint firefight."
         },
         {
           "number": "3",
-          "title": "Best Farming Spots",
-          "description": "Maximize your Soul Essence and EXP gains with optimal farming locations for every stage."
+          "title": "Which Faction to Pick",
+          "description": "Compare UNSC Spartans, ODST shock troops, and Covenant or Banished forces to find the Halo Flashpoint playstyle that fits you."
         },
         {
           "number": "4",
-          "title": "How to Extract",
-          "description": "Learn the best methods and locations for extracting resources in Halo Flashpoint."
+          "title": "Combat Basics",
+          "description": "Master line of sight, focused fire, and objective play so your Halo Flashpoint fireteam wins on points, not just kills."
         }
       ]
     },
@@ -62,265 +62,379 @@
       "eyebrow": "Popular Pages",
       "title": "Trending Now",
       "quickLinks": [
-        "Hollow Progression",
-        "Fastest Leveling",
-        "Spirit Charms",
-        "All Boss Guides"
+        "Core Rules",
+        "Beginner Guide",
+        "Faction Guide",
+        "Painting Guide"
       ],
       "cards": [
         {
           "badge": "Beginner",
-          "title": "Beginner Guide",
-          "description": "Everything you need from your first login to mastering the basics of combat and progression.",
-          "href": "/beginner-guide"
+          "title": "Halo Flashpoint Beginner Guide",
+          "description": "Starter sets, fireteam building, and first-game tactics in one walkthrough.",
+          "href": "/guide/halo-flashpoint-beginner-guide"
         },
         {
-          "badge": "Updated",
-          "title": "Active Codes",
-          "description": "All working codes with rewards redeem before they expire.",
-          "href": "/codes"
+          "badge": "Core",
+          "title": "Halo Flashpoint Core Rules",
+          "description": "Activations, dice pools, cover, and shields explained for new players.",
+          "href": "/rules/halo-flashpoint-core-rules"
         },
         {
-          "badge": "Updated",
-          "title": "Equipment Database",
-          "description": "94 items across 5 slots complete gear database with stats, rarity, and sources.",
-          "href": "/equipment"
+          "badge": "Units",
+          "title": "Halo Flashpoint Units",
+          "description": "Spartans, ODSTs, Elites, Grunts, and Brutes broken down by battlefield role.",
+          "href": "/units/halo-flashpoint-units"
         },
         {
-          "badge": "Popular",
-          "title": "Which Race Should You Pick?",
-          "description": "Shinigami, Quincy, or Hollow compare all three and find your perfect playstyle.",
-          "href": "/races/best-race"
+          "badge": "Factions",
+          "title": "Halo Flashpoint Factions",
+          "description": "Compare UNSC, Covenant, Banished, and Flood playstyles before you commit.",
+          "href": "/factions/halo-flashpoint-unsc"
         },
         {
-          "badge": "New",
-          "title": "Enemies & Monsters",
-          "description": "23 enemy types across 5 regions drops, locations, and farming tips.",
-          "href": "/enemies"
+          "badge": "Mechanics",
+          "title": "Halo Flashpoint List Building",
+          "description": "Build a balanced fireteam around the mission instead of the biggest guns.",
+          "href": "/mechanics/halo-flashpoint-list-building"
         },
         {
-          "badge": "Popular",
-          "title": "Boss Locations & Drops",
-          "description": "Every boss location, drop table, and respawn timer in one reference.",
-          "href": "/boss-locations-drops-respawn-times"
+          "badge": "Mechanics",
+          "title": "Halo Flashpoint Points",
+          "description": "How the shared points budget works and where every point earns its keep.",
+          "href": "/mechanics/halo-flashpoint-points"
         },
         {
-          "badge": "Popular",
-          "title": "Best Builds",
-          "description": "Optimal stat allocation, skill tree picks, and Charm combos for every playstyle.",
-          "href": "/builds/best-builds"
+          "badge": "Modes",
+          "title": "Halo Flashpoint Game Modes",
+          "description": "Objective, asymmetric, narrative, and big team battle formats.",
+          "href": "/mechanics/halo-flashpoint-game-modes"
         },
         {
-          "badge": "New",
-          "title": "Shikai Tier List",
-          "description": "All 6 Shinigami Shikai types ranked by PvP and PvE performance.",
-          "href": "/tier-list/shikai"
+          "badge": "Hobby",
+          "title": "Halo Flashpoint Miniatures",
+          "description": "Prep, prime, and paint your fireteam with UNSC and Covenant color recipes.",
+          "href": "/painting/halo-flashpoint-miniatures"
         },
         {
-          "badge": "New",
-          "title": "World Events Guide",
-          "description": "Supply Caches, Raids, and endgame world events with rare rewards.",
-          "href": "/world-events"
+          "badge": "Rules",
+          "title": "Halo Flashpoint Keywords",
+          "description": "The card glossary: line of sight, dice pool, target number, save, and more.",
+          "href": "/rules/halo-flashpoint-keywords"
         }
       ]
     },
     "aboutGame": {
       "title": "What is Halo Flashpoint?",
       "paragraphs": [
-        "Halo Flashpoint is a stylized fighting RPG on Roblox inspired by the Bleach anime universe. Choose from three playable races Shinigami, Quincy, or Hollow each with unique progression systems, unlockable abilities, and evolution paths. Master over 130 skills as you fight your way to the level 100 cap.",
-        "Whether you're unlocking your first Shikai, evolving from a base Hollow into an Arrancar, or grinding Quincy Lieutenant missions, our wiki covers every system with detailed guides, data tables, and step-by-step walkthroughs."
+        "Halo Flashpoint is a two-player tabletop miniatures skirmish game from Mantic Games, set in the Halo universe. Instead of commanding sprawling armies, each player controls a small fireteam of three to six models, built from Spartans, ODSTs, Marines, Elites, Grunts, Brutes, and iconic heroes, on a compact battlefield that fits on a kitchen table.",
+        "Games run about 45 to 90 minutes and reward positioning over raw dice luck. Alternating activations keep both players involved in every round, energy shields soak up incoming fire before a model takes real damage, and dense terrain decides who can shoot and who has to move. Objective-driven scenarios mean a fireteam that holds ground usually beats one that only chases kills."
       ],
       "stats": [
         {
           "label": "Developer",
-          "value": "Midnight Continent"
+          "value": "Mantic Games"
         },
         {
           "label": "Platform",
-          "value": "Roblox"
+          "value": "Tabletop Miniatures"
         },
         {
           "label": "Genre",
-          "value": "Fighting RPG"
+          "value": "Skirmish Wargame"
         },
         {
-          "label": "Visits",
-          "value": "12.6M+"
+          "label": "Players",
+          "value": "2"
         },
         {
-          "label": "Favorites",
-          "value": "243K+"
+          "label": "Play Time",
+          "value": "45-90 min"
         },
         {
-          "label": "Total Skills",
-          "value": "130+"
-        },
-        {
-          "label": "Level Cap",
-          "value": "100"
+          "label": "Release Year",
+          "value": "2024"
         }
       ],
       "cta": "Explore All Guides"
     },
     "explore": {
       "title": "Explore Halo Flashpoint Wiki",
-      "description": "Master your seafood restaurant on Roblox with essential progression guides, active codes, complete fish & recipe catalogs, and optimal upgrade strategies.",
+      "description": "Eight guide hubs covering Halo Flashpoint rules, miniatures, factions, weapons, list building, organized play, and painting, so a new player can go from opening the box to winning objective scenarios.",
       "modules": [
         {
           "order": 1,
-          "name": "Halo Flashpoint Working Codes",
-          "description": "Redeem the latest working codes to claim free coins, gems, exclusive cosmetics, and boost items before they expire.",
-          "href": "/codes/halo-flashpoint-codes",
-          "displayType": "code-box",
+          "name": "Halo Flashpoint Beginner Guide",
+          "description": "Start with the core set, assemble a legal fireteam, and play a full Halo Flashpoint scenario without drowning in rules.",
+          "href": "/guide/halo-flashpoint-beginner-guide",
+          "displayType": "step-by-step",
           "highlights": [
             {
-              "label": "Code",
-              "detail": "FULLRELEASE — Free Cash & Rewards"
+              "label": "1",
+              "detail": "Pick a starter or core set and check the contents before you build anything."
             },
             {
-              "label": "Code",
-              "detail": "75KLIKES — Exclusive Ability Reroll"
+              "label": "2",
+              "detail": "Assemble a legal fireteam: three to six models per side is standard skirmish size."
             },
             {
-              "label": "Tip",
-              "detail": "Codes are case-sensitive; enter them in the Settings menu"
+              "label": "3",
+              "detail": "Lay out terrain with a mix of cover and open lanes so movement actually matters."
+            },
+            {
+              "label": "4",
+              "detail": "Learn the activation loop: alternate models, then move, shoot, fight, or interact."
+            },
+            {
+              "label": "5",
+              "detail": "Play an objective scenario and score points instead of chasing kills."
+            },
+            {
+              "label": "6",
+              "detail": "Review the roster after the game and swap one unit to see what changes."
             }
           ]
         },
         {
           "order": 2,
-          "name": "Beginner Guide: How to Start & Serve Customers",
-          "description": "Step-by-step beginner guide covering customer ordering, food prep, station management, and cashier checkout mechanics.",
-          "href": "/guide/halo-flashpoint-beginner-guide",
-          "displayType": "feature-cards",
+          "name": "Halo Flashpoint Rules Guide",
+          "description": "The shared framework behind every Halo Flashpoint match: turn order, actions, shooting, melee, cover, and the keywords printed on your cards.",
+          "href": "/rules/halo-flashpoint-rules",
+          "displayType": "card-list",
           "highlights": [
             {
-              "label": "Step 1",
-              "detail": "Take customer order at the stall front"
+              "label": "Core Rules",
+              "detail": "How activations, actions, reactions, and the end-of-round scoring step fit together."
             },
             {
-              "label": "Step 2",
-              "detail": "Cook seafood on the grill or boil station"
+              "label": "Turn Order",
+              "detail": "Alternating activation keeps both fireteams acting in every round."
             },
             {
-              "label": "Step 3",
-              "detail": "Serve warm food promptly for maximum customer tips"
+              "label": "Shooting",
+              "detail": "Dice pools, range, modifiers, and the order an attack is resolved in."
+            },
+            {
+              "label": "Melee",
+              "detail": "Short, decisive base-contact fights that finish wounded or pinned models."
+            },
+            {
+              "label": "Cover",
+              "detail": "Terrain that shrinks the attack pool and keeps your models alive."
+            },
+            {
+              "label": "Keywords",
+              "detail": "The card shorthand: line of sight, dice pool, target number, save."
             }
           ]
         },
         {
           "order": 3,
-          "name": "Seafood & Fish Tier List",
-          "description": "Complete breakdown of all catchable fish and seafood ranked by market value, customer demand, and profit margins.",
-          "href": "/seafood/halo-flashpoint-tier-list",
-          "displayType": "tier-grid",
+          "name": "Halo Flashpoint Miniatures Guide",
+          "description": "Every miniature range in the game, from Spartan fireteams and ODST shock troops to Covenant and Banished squads.",
+          "href": "/painting/halo-flashpoint-miniatures",
+          "displayType": "card-list",
           "highlights": [
             {
-              "label": "S Tier",
-              "detail": "King Crab · Lobster Boil — Highest profit per customer"
+              "label": "Spartans",
+              "detail": "Elite UNSC all-rounders that are tough, flexible, and expensive."
             },
             {
-              "label": "A Tier",
-              "detail": "Salmon · Jumbo Shrimp · Tuna Steak — Reliable fast earners"
+              "label": "ODST",
+              "detail": "Aggressive shock troopers with strong mid-range firepower."
             },
             {
-              "label": "B Tier",
-              "detail": "Clams · Oysters · Squid — Great mid-game margin"
+              "label": "Marines",
+              "detail": "Cheap line infantry for objectives, screening, and weight of numbers."
             },
             {
-              "label": "C Tier",
-              "detail": "Common Sardines · Small Crab — Starter seafood"
+              "label": "Elites",
+              "detail": "Sangheili with energy shields, mobility, and hard-hitting melee."
+            },
+            {
+              "label": "Grunts",
+              "detail": "Unggoy swarm troops that apply objective pressure for very few points."
+            },
+            {
+              "label": "Brutes",
+              "detail": "Jiralhanae melee bruisers that dominate close-quarters fights."
             }
           ]
         },
         {
           "order": 4,
-          "name": "Best Upgrades Progression",
-          "description": "Optimal order to spend your cash: expand kitchen stations, hire waitstaff, speed up grills, and upgrade seating.",
-          "href": "/upgrades/halo-flashpoint-best-upgrades",
-          "displayType": "feature-cards",
+          "name": "Halo Flashpoint Team Builder",
+          "description": "Turn a box of models into a legal, competitive fireteam with roles, points, upgrades, and heroes that support each other.",
+          "href": "/mechanics/halo-flashpoint-list-building",
+          "displayType": "card-list",
           "highlights": [
             {
-              "label": "Priority 1",
-              "detail": "Cooking Speed & Extra Burners — Clears customer backlog"
+              "label": "Points",
+              "detail": "Every model, weapon, and upgrade is paid for from a shared budget."
             },
             {
-              "label": "Priority 2",
-              "detail": "Customer Seating Capacity — Increases simultaneous diners"
+              "label": "Roles",
+              "detail": "Cover the six jobs: line trooper, brawler, heavy, marksman, support, leader."
             },
             {
-              "label": "Priority 3",
-              "detail": "Auto-Chef / Waiter Staff — Passive hands-free revenue"
+              "label": "Upgrades",
+              "detail": "Specialists and wargear that define what a model does on the table."
+            },
+            {
+              "label": "Heroes",
+              "detail": "Named characters with stronger stat lines and unique abilities."
+            },
+            {
+              "label": "Synergy",
+              "detail": "Faction identity and role overlap decide how a fireteam actually plays."
             }
           ]
         },
         {
           "order": 5,
-          "name": "How to Get Cash Fast",
-          "description": "Top money-making strategies, VIP evaluation, tip maximization, and high-efficiency serving tips.",
-          "href": "/guide/halo-flashpoint-how-to-get-cash-fast",
-          "displayType": "feature-cards",
+          "name": "Halo Flashpoint Weapons Guide",
+          "description": "Compare the iconic Halo weapons on your unit cards and learn which loadout answers which battlefield problem.",
+          "href": "/units/halo-flashpoint-units",
+          "displayType": "code-cards",
           "highlights": [
             {
-              "label": "Combo",
-              "detail": "Chain orders quickly to build the Customer Happiness multiplier"
+              "label": "Shotgun",
+              "detail": "Assault brawler pick for Spartans that want to close the distance."
             },
             {
-              "label": "High Margin",
-              "detail": "Focus high-tier seafood boils during peak customer rush hours"
+              "label": "Energy Sword",
+              "detail": "Elite melee finisher that ends a fight in base contact."
             },
             {
-              "label": "Reinvest",
-              "detail": "Keep 20% cash reserve for fresh ingredient replenishment"
+              "label": "Rocket Launcher",
+              "detail": "UNSC anti-armor answer to heavy and shielded targets."
+            },
+            {
+              "label": "Fuel Rod Gun",
+              "detail": "Brute and Hunter heavy weapon that breaks tough models."
+            },
+            {
+              "label": "Sniper Rifle",
+              "detail": "Marksman tool for removing key models across long sight lines."
+            },
+            {
+              "label": "Beam Rifle",
+              "detail": "Covenant marksman weapon for picking off exposed leaders."
             }
           ]
         },
         {
           "order": 6,
-          "name": "Plot Expansion & Stand Customization",
-          "description": "Unlock bigger land plots, arrange optimal cooking layouts, and add high-value decorative upgrades.",
-          "href": "/upgrades/halo-flashpoint-how-to-upgrade-plot",
-          "displayType": "feature-cards",
+          "name": "Halo Flashpoint Factions Guide",
+          "description": "Pick a faction that matches how you want to play, from disciplined UNSC fireteams to brutal Banished assault squads.",
+          "href": "/factions/halo-flashpoint-unsc",
+          "displayType": "tier-grid",
           "highlights": [
             {
-              "label": "Plot 1",
-              "detail": "Starter Beach Stand (3 Tables, 1 Grill)"
+              "label": "S",
+              "detail": "UNSC Spartans: elite all-rounders that are strong in both shooting and melee."
             },
             {
-              "label": "Plot 2",
-              "detail": "Boardwalk Restaurant (6 Tables, 2 Grills, Boil Station)"
+              "label": "A",
+              "detail": "Covenant Elites: energy shields, excellent mobility, and devastating melee."
             },
             {
-              "label": "Plot 3",
-              "detail": "Luxury Pier Seafood Pavilion (Full Automation & VIP Seating)"
+              "label": "B",
+              "detail": "ODST shock troops: fast, aggressive, and deadly at mid-range."
+            },
+            {
+              "label": "C",
+              "detail": "Grunts and Jackals: cheap bodies for objectives, screening, and board control."
+            }
+          ]
+        },
+        {
+          "order": 7,
+          "name": "Halo Flashpoint Tournament Guide",
+          "description": "Organized play for Halo Flashpoint: competitive scenarios, multiplayer formats, campaign leagues, and balanced table setup.",
+          "href": "/mechanics/halo-flashpoint-game-modes",
+          "displayType": "card-list",
+          "highlights": [
+            {
+              "label": "Modes",
+              "detail": "Objective scenarios, asymmetric games, and narrative firefight missions."
+            },
+            {
+              "label": "Scenarios",
+              "detail": "How to build and balance your own mission for competitive play."
+            },
+            {
+              "label": "Team Play",
+              "detail": "Multiplayer and big team battle formats for larger tables."
+            },
+            {
+              "label": "Campaign",
+              "detail": "Linked games that carry one fireteam through a narrative arc."
+            },
+            {
+              "label": "Balance",
+              "detail": "Points limits and terrain setup that keep tournament games fair."
+            }
+          ]
+        },
+        {
+          "order": 8,
+          "name": "Halo Flashpoint Painting Guide",
+          "description": "Get a fireteam from sprue to tabletop with prep, priming, faction color recipes, washes, highlights, and basing.",
+          "href": "/painting/halo-flashpoint-painting-guide",
+          "displayType": "card-list",
+          "highlights": [
+            {
+              "label": "Prep",
+              "detail": "Wash the parts, remove mold lines, and assemble before you prime."
+            },
+            {
+              "label": "Priming",
+              "detail": "A thin, even primer coat is the foundation of a clean paint job."
+            },
+            {
+              "label": "Basecoat",
+              "detail": "Faction color recipes for UNSC armor and Covenant plating."
+            },
+            {
+              "label": "Washes",
+              "detail": "Shades that settle into recesses and add instant depth."
+            },
+            {
+              "label": "Highlights",
+              "detail": "Edge highlights and drybrushing that make models read across the table."
+            },
+            {
+              "label": "Basing",
+              "detail": "Textured bases and terrain that tie a fireteam to the battlefield."
             }
           ]
         }
       ]
     },
     "faq": {
-      "title": "Frequently Asked Questions",
-      "description": "Quick answers to the most common questions about Halo Flashpoint.",
+      "title": "Halo Flashpoint FAQ",
+      "description": "Straight answers to the questions new players ask most about Halo Flashpoint, from how many models you need to how a game is actually won.",
       "items": [
         {
           "question": "What is Halo Flashpoint?",
-          "answer": "Halo Flashpoint is a free-to-play fighting RPG on Roblox based on the Bleach anime. You choose one of game mechanics Shinigami (Soul Reaper), Quincy, or Hollow each with unique progression, combat abilities, and evolution systems. The game features 130+ skills, a level 100 cap, boss fights, and deep build customization."
+          "answer": "Halo Flashpoint is a two-player tabletop miniatures skirmish game from Mantic Games. Each player commands a small fireteam of Spartans, ODSTs, Marines, Elites, Grunts, or Brutes on a compact battlefield and fights over mission objectives rather than wiping out the opposing army."
         },
         {
-          "question": "Which race should beginners pick?",
-          "answer": "Shinigami is the most straightforward starter race, while Hollow and Quincy offer more specialized progression routes. Compare their abilities before committing."
+          "question": "How many miniatures do I need to play Halo Flashpoint?",
+          "answer": "A standard Halo Flashpoint fireteam is roughly three to six models per side. That low model count keeps games fast, affordable, and easy to learn compared with mass-battle wargames."
         },
         {
-          "question": "What is the current level cap?",
-          "answer": "The current level cap is 100, with more than 130 skills available across trees and race progression systems."
+          "question": "How long does a game of Halo Flashpoint take?",
+          "answer": "Most Halo Flashpoint games finish in about 45 to 90 minutes on a battlefield of roughly 2 by 2 to 3 by 3 feet, which makes it easy to fit a match into an evening."
         },
         {
-          "question": "Where do I find active codes?",
-          "answer": "Use the Codes page for working codes, rewards, expiration notes, and redeem instructions."
+          "question": "Do I have to paint my Halo Flashpoint miniatures before playing?",
+          "answer": "No. Bare plastic or primer is completely legal, and most new players get several Halo Flashpoint games in before they pick up a brush. Painting is a hobby layer on top of the rules, not a requirement."
         },
         {
-          "question": "Are boss guides updated?",
-          "answer": "Boss pages are organized with spawn notes, attack patterns, strategies, drop tables, and related next steps for progression."
+          "question": "How do you actually win a game of Halo Flashpoint?",
+          "answer": "Halo Flashpoint is won on mission objectives. Scenarios define the scoring conditions, so a fireteam that holds ground and completes objectives usually beats one that only chases kills."
         }
       ]
     },
