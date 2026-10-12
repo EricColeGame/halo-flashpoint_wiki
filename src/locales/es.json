@@ -1,1 +1,516 @@
-{}
+{
+  "site": {
+    "name": "Wiki de Halo Flashpoint",
+    "shortName": "Halo Flashpoint",
+    "tagline": "Reglas, miniaturas, facciones y tácticas",
+    "description": "Wiki de fans de Halo Flashpoint para el juego de miniaturas de Halo: reglas básicas, gamas de miniaturas, facciones, creación de equipos, guías de pintura y consejos tácticos.",
+    "legalNotice": "Wiki de fans no oficial de Halo Flashpoint. Sin afiliación con Microsoft, 343 Industries ni Mantic Games."
+  },
+  "nav": {
+    "home": "Inicio",
+    "menu": "Menú",
+    "toggleTheme": "Cambiar tema",
+    "guide": "Guía",
+    "rules": "Reglas",
+    "mechanics": "Mecánicas",
+    "units": "Unidades",
+    "factions": "Facciones",
+    "painting": "Pintura"
+  },
+  "home": {
+    "meta": {
+      "title": "Wiki de Halo Flashpoint – Miniaturas, reglas y guías",
+      "description": "Explora el wiki de Halo Flashpoint con detalles de miniaturas, reglas de juego, estrategias Spartan, guías de facciones e información táctica para la experiencia de Halo en mesa."
+    },
+    "hero": {
+      "eyebrow": "Wiki comunitario de fans",
+      "title": "Wiki de Halo Flashpoint",
+      "description": "Halo Flashpoint es un juego táctico de escaramuzas de miniaturas sobre mesa en el que los jugadores dirigen equipos Spartan, usan figuras en miniatura y afrontan misiones estratégicas inspiradas en el universo de Halo.",
+      "stats": [
+        "Lanzamiento en 2024",
+        "12 miniaturas básicas",
+        "0 códigos activos",
+        "Actualizado cada mes"
+      ],
+      "primaryCta": "Guía para principiantes",
+      "secondaryCta": "Reglas básicas",
+      "tertiaryCta": "Miniaturas y modelos",
+      "videoLabel": "Vídeo tutorial oficial"
+    },
+    "updates": {
+      "title": "Últimas novedades",
+      "browse": "Ver todas las guías",
+      "viewAll": "Ver todo"
+    },
+    "start": {
+      "eyebrow": "Empieza aquí",
+      "title": "Tu recorrido por Halo Flashpoint",
+      "cards": [
+        {
+          "number": "1",
+          "title": "Guía para principiantes",
+          "description": "Abre la caja, monta un equipo de fuego legal y juega tu primer escenario de Halo Flashpoint en una sola noche."
+        },
+        {
+          "number": "2",
+          "title": "Reglas básicas y palabras clave",
+          "description": "Aprende las activaciones alternas, las reservas de dados, la cobertura, los escudos de energía y las palabras clave de las cartas que deciden cada enfrentamiento de Halo Flashpoint."
+        },
+        {
+          "number": "3",
+          "title": "Qué facción elegir",
+          "description": "Compara a los Spartans de la UNSC, las tropas de choque ODST y las fuerzas Covenant o Banished para encontrar el estilo de juego de Halo Flashpoint que encaje contigo."
+        },
+        {
+          "number": "4",
+          "title": "Fundamentos del combate",
+          "description": "Domina la línea de visión, el fuego concentrado y los objetivos para que tu equipo de Halo Flashpoint gane por puntos y no solo por bajas."
+        }
+      ]
+    },
+    "popular": {
+      "eyebrow": "Páginas populares",
+      "title": "Tendencias ahora",
+      "quickLinks": [
+        "Reglas básicas",
+        "Guía para principiantes",
+        "Guía de facciones",
+        "Guía de pintura"
+      ],
+      "cards": [
+        {
+          "badge": "Principiantes",
+          "title": "Guía para principiantes de Halo Flashpoint",
+          "description": "Sets de inicio, creación de equipos y tácticas del primer juego en un solo recorrido.",
+          "href": "/guide/halo-flashpoint-beginner-guide"
+        },
+        {
+          "badge": "Básico",
+          "title": "Reglas básicas de Halo Flashpoint",
+          "description": "Activaciones, reservas de dados, cobertura y escudos explicados para jugadores nuevos.",
+          "href": "/rules/halo-flashpoint-core-rules"
+        },
+        {
+          "badge": "Unidades",
+          "title": "Unidades de Halo Flashpoint",
+          "description": "Spartans, ODST, Elites, Grunts y Brutes desglosados por rol en el campo de batalla.",
+          "href": "/units/halo-flashpoint-units"
+        },
+        {
+          "badge": "Facciones",
+          "title": "Facciones de Halo Flashpoint",
+          "description": "Compara los estilos de juego UNSC, Covenant, Banished y Flood antes de decidirte.",
+          "href": "/factions/halo-flashpoint-unsc"
+        },
+        {
+          "badge": "Mecánicas",
+          "title": "Creación de listas en Halo Flashpoint",
+          "description": "Construye un equipo equilibrado en torno a la misión en lugar de las armas más grandes.",
+          "href": "/mechanics/halo-flashpoint-list-building"
+        },
+        {
+          "badge": "Mecánicas",
+          "title": "Puntos de Halo Flashpoint",
+          "description": "Cómo funciona el presupuesto de puntos compartido y dónde cada punto vale la pena.",
+          "href": "/mechanics/halo-flashpoint-points"
+        },
+        {
+          "badge": "Modos",
+          "title": "Modos de juego de Halo Flashpoint",
+          "description": "Formatos de objetivos, asimétricos, narrativos y de gran batalla por equipos.",
+          "href": "/mechanics/halo-flashpoint-game-modes"
+        },
+        {
+          "badge": "Hobby",
+          "title": "Miniaturas de Halo Flashpoint",
+          "description": "Prepara, imprime y pinta tu equipo con recetas de color de la UNSC y el Covenant.",
+          "href": "/painting/halo-flashpoint-miniatures"
+        },
+        {
+          "badge": "Reglas",
+          "title": "Palabras clave de Halo Flashpoint",
+          "description": "El glosario de cartas: línea de visión, reserva de dados, número objetivo, salvación y más.",
+          "href": "/rules/halo-flashpoint-keywords"
+        }
+      ]
+    },
+    "aboutGame": {
+      "title": "¿Qué es Halo Flashpoint?",
+      "paragraphs": [
+        "Halo Flashpoint es un juego de escaramuzas de miniaturas sobre mesa para dos jugadores de Mantic Games, ambientado en el universo de Halo. En lugar de dirigir ejércitos enormes, cada jugador controla un pequeño equipo de fuego de tres a seis modelos, formado por Spartans, ODST, Marines, Elites, Grunts, Brutes y héroes icónicos, en un campo de batalla compacto que cabe en una mesa de cocina.",
+        "Las partidas duran entre 45 y 90 minutos y premian la colocación por encima de la suerte pura con los dados. Las activaciones alternas mantienen implicados a ambos jugadores en cada ronda, los escudos de energía absorben el fuego entrante antes de que un modelo sufra daño real, y un terreno denso decide quién puede disparar y quién debe moverse. Los escenarios centrados en objetivos hacen que un equipo que mantiene la posición suela ganar a otro que solo persigue bajas."
+      ],
+      "stats": [
+        {
+          "label": "Desarrollador",
+          "value": "Mantic Games"
+        },
+        {
+          "label": "Plataforma",
+          "value": "Miniaturas de mesa"
+        },
+        {
+          "label": "Género",
+          "value": "Wargame de escaramuzas"
+        },
+        {
+          "label": "Jugadores",
+          "value": "2"
+        },
+        {
+          "label": "Duración",
+          "value": "45-90 min"
+        },
+        {
+          "label": "Año de lanzamiento",
+          "value": "2024"
+        }
+      ],
+      "cta": "Explorar todas las guías"
+    },
+    "explore": {
+      "title": "Explora el wiki de Halo Flashpoint",
+      "description": "Ocho centros de guías que cubren las reglas, las miniaturas, las facciones, las armas, la creación de listas, el juego organizado y la pintura de Halo Flashpoint, para que un jugador nuevo pase de abrir la caja a ganar escenarios de objetivos.",
+      "modules": [
+        {
+          "order": 1,
+          "name": "Guía para principiantes de Halo Flashpoint",
+          "description": "Empieza con el set básico, monta un equipo de fuego legal y juega un escenario completo de Halo Flashpoint sin ahogarte en reglas.",
+          "href": "/guide/halo-flashpoint-beginner-guide",
+          "displayType": "step-by-step",
+          "highlights": [
+            {
+              "label": "1",
+              "detail": "Elige un set de inicio o básico y revisa el contenido antes de montar nada."
+            },
+            {
+              "label": "2",
+              "detail": "Monta un equipo de fuego legal: de tres a seis modelos por bando es el tamaño estándar en escaramuzas."
+            },
+            {
+              "label": "3",
+              "detail": "Coloca terreno que combine coberturas y pasillos abiertos para que el movimiento importe de verdad."
+            },
+            {
+              "label": "4",
+              "detail": "Aprende el bucle de activación: alterna modelos y luego mueve, dispara, combate o interactúa."
+            },
+            {
+              "label": "5",
+              "detail": "Juega un escenario de objetivos y suma puntos en lugar de perseguir bajas."
+            },
+            {
+              "label": "6",
+              "detail": "Revisa la lista después de la partida y cambia una unidad para ver qué cambia."
+            }
+          ]
+        },
+        {
+          "order": 2,
+          "name": "Guía de reglas de Halo Flashpoint",
+          "description": "El marco común de cada partida de Halo Flashpoint: orden de turno, acciones, disparo, combate cuerpo a cuerpo, cobertura y las palabras clave impresas en tus cartas.",
+          "href": "/rules/halo-flashpoint-rules",
+          "displayType": "card-list",
+          "highlights": [
+            {
+              "label": "Reglas básicas",
+              "detail": "Cómo encajan las activaciones, las acciones, las reacciones y el paso de puntuación al final de la ronda."
+            },
+            {
+              "label": "Orden de turno",
+              "detail": "La activación alterna hace que ambos equipos actúen en cada ronda."
+            },
+            {
+              "label": "Disparo",
+              "detail": "Reservas de dados, alcance, modificadores y el orden en que se resuelve un ataque."
+            },
+            {
+              "label": "Cuerpo a cuerpo",
+              "detail": "Combates cortos y decisivos en contacto que rematan a los modelos heridos o inmovilizados."
+            },
+            {
+              "label": "Cobertura",
+              "detail": "Terreno que reduce la reserva de ataque y mantiene vivos a tus modelos."
+            },
+            {
+              "label": "Palabras clave",
+              "detail": "La taquigrafía de las cartas: línea de visión, reserva de dados, número objetivo, salvación."
+            }
+          ]
+        },
+        {
+          "order": 3,
+          "name": "Guía de miniaturas de Halo Flashpoint",
+          "description": "Todas las gamas de miniaturas del juego, desde los equipos Spartan y las tropas de choque ODST hasta los escuadrones Covenant y Banished.",
+          "href": "/painting/halo-flashpoint-miniatures",
+          "displayType": "card-list",
+          "highlights": [
+            {
+              "label": "Spartans",
+              "detail": "Los todoterreno de élite de la UNSC: resistentes, flexibles y caros."
+            },
+            {
+              "label": "ODST",
+              "detail": "Tropas de choque agresivas con una potente potencia de fuego a media distancia."
+            },
+            {
+              "label": "Marines",
+              "detail": "Infantería de línea barata para objetivos, protección y superioridad numérica."
+            },
+            {
+              "label": "Elites",
+              "detail": "Sangheili con escudos de energía, movilidad y un cuerpo a cuerpo demoledor."
+            },
+            {
+              "label": "Grunts",
+              "detail": "Tropas enjambre Unggoy que presionan los objetivos por muy pocos puntos."
+            },
+            {
+              "label": "Brutes",
+              "detail": "Matones Jiralhanae que dominan los combates a corta distancia."
+            }
+          ]
+        },
+        {
+          "order": 4,
+          "name": "Creador de equipos de Halo Flashpoint",
+          "description": "Convierte una caja de modelos en un equipo de fuego legal y competitivo con roles, puntos, mejoras y héroes que se apoyan entre sí.",
+          "href": "/mechanics/halo-flashpoint-list-building",
+          "displayType": "card-list",
+          "highlights": [
+            {
+              "label": "Puntos",
+              "detail": "Cada modelo, arma y mejora se paga con un presupuesto compartido."
+            },
+            {
+              "label": "Roles",
+              "detail": "Cubre las seis funciones: soldado de línea, púgil, arma pesada, tirador, apoyo y líder."
+            },
+            {
+              "label": "Mejoras",
+              "detail": "Especialistas y equipo que definen lo que hace un modelo en la mesa."
+            },
+            {
+              "label": "Héroes",
+              "detail": "Personajes con nombre, mejores características y habilidades únicas."
+            },
+            {
+              "label": "Sinergia",
+              "detail": "La identidad de facción y el solapamiento de roles deciden cómo juega un equipo de verdad."
+            }
+          ]
+        },
+        {
+          "order": 5,
+          "name": "Guía de armas de Halo Flashpoint",
+          "description": "Compara las armas icónicas de Halo en tus cartas de unidad y descubre qué equipamiento responde a cada problema del campo de batalla.",
+          "href": "/units/halo-flashpoint-units",
+          "displayType": "code-cards",
+          "highlights": [
+            {
+              "label": "Escopeta",
+              "detail": "La elección de asalto para los Spartans que quieren acortar distancias."
+            },
+            {
+              "label": "Espada de energía",
+              "detail": "El remate cuerpo a cuerpo de los Elites que acaba un combate en contacto."
+            },
+            {
+              "label": "Lanzacohetes",
+              "detail": "La respuesta antitanque de la UNSC contra objetivos pesados y con escudo."
+            },
+            {
+              "label": "Cañón de combustible",
+              "detail": "Arma pesada de Brutes y Hunters que rompe a los modelos duros."
+            },
+            {
+              "label": "Rifle de francotirador",
+              "detail": "La herramienta del tirador para eliminar modelos clave a través de largas líneas de visión."
+            },
+            {
+              "label": "Rifle de haz",
+              "detail": "Arma de tirador Covenant para abatir a líderes expuestos."
+            }
+          ]
+        },
+        {
+          "order": 6,
+          "name": "Guía de facciones de Halo Flashpoint",
+          "description": "Elige una facción que encaje con tu forma de jugar, desde los disciplinados equipos de la UNSC hasta las brutales tropas de asalto Banished.",
+          "href": "/factions/halo-flashpoint-unsc",
+          "displayType": "tier-grid",
+          "highlights": [
+            {
+              "label": "S",
+              "detail": "Spartans de la UNSC: todoterreno de élite, fuertes tanto en disparo como en cuerpo a cuerpo."
+            },
+            {
+              "label": "A",
+              "detail": "Elites Covenant: escudos de energía, movilidad excelente y un cuerpo a cuerpo devastador."
+            },
+            {
+              "label": "B",
+              "detail": "Tropas de choque ODST: rápidas, agresivas y letales a media distancia."
+            },
+            {
+              "label": "C",
+              "detail": "Grunts y Jackals: cuerpos baratos para objetivos, protección y control de la mesa."
+            }
+          ]
+        },
+        {
+          "order": 7,
+          "name": "Guía de torneos de Halo Flashpoint",
+          "description": "Juego organizado para Halo Flashpoint: escenarios competitivos, formatos multijugador, ligas de campaña y montaje de mesa equilibrado.",
+          "href": "/mechanics/halo-flashpoint-game-modes",
+          "displayType": "card-list",
+          "highlights": [
+            {
+              "label": "Modos",
+              "detail": "Escenarios de objetivos, partidas asimétricas y misiones narrativas de enfrentamiento."
+            },
+            {
+              "label": "Escenarios",
+              "detail": "Cómo crear y equilibrar tu propia misión para el juego competitivo."
+            },
+            {
+              "label": "Juego en equipo",
+              "detail": "Formatos multijugador y de gran batalla por equipos para mesas más grandes."
+            },
+            {
+              "label": "Campaña",
+              "detail": "Partidas enlazadas que llevan a un equipo de fuego por un arco narrativo."
+            },
+            {
+              "label": "Equilibrio",
+              "detail": "Límites de puntos y montaje de terreno que mantienen justas las partidas de torneo."
+            }
+          ]
+        },
+        {
+          "order": 8,
+          "name": "Guía de pintura de Halo Flashpoint",
+          "description": "Lleva un equipo de fuego de la matriz a la mesa con preparación, imprimación, recetas de color de facción, lavados, luces y peanas.",
+          "href": "/painting/halo-flashpoint-painting-guide",
+          "displayType": "card-list",
+          "highlights": [
+            {
+              "label": "Preparación",
+              "detail": "Lava las piezas, retira las rebabas y monta antes de imprimar."
+            },
+            {
+              "label": "Imprimación",
+              "detail": "Una capa fina y uniforme es la base de un trabajo de pintura limpio."
+            },
+            {
+              "label": "Capa base",
+              "detail": "Recetas de color de facción para la armadura de la UNSC y el blindaje Covenant."
+            },
+            {
+              "label": "Lavados",
+              "detail": "Sombras que se asientan en los huecos y aportan profundidad al instante."
+            },
+            {
+              "label": "Luces",
+              "detail": "Luces de arista y pincel seco que hacen legibles los modelos en toda la mesa."
+            },
+            {
+              "label": "Peanas",
+              "detail": "Peanas texturizadas y terreno que vinculan un equipo de fuego al campo de batalla."
+            }
+          ]
+        }
+      ]
+    },
+    "faq": {
+      "title": "Preguntas frecuentes de Halo Flashpoint",
+      "description": "Respuestas directas a las preguntas que más hacen los jugadores nuevos sobre Halo Flashpoint, desde cuántos modelos necesitas hasta cómo se gana realmente una partida.",
+      "items": [
+        {
+          "question": "¿Qué es Halo Flashpoint?",
+          "answer": "Halo Flashpoint es un juego de escaramuzas de miniaturas sobre mesa para dos jugadores de Mantic Games. Cada jugador dirige un pequeño equipo de fuego de Spartans, ODST, Marines, Elites, Grunts o Brutes en un campo de batalla compacto y lucha por objetivos de misión en lugar de aniquilar al ejército rival."
+        },
+        {
+          "question": "¿Cuántas miniaturas necesito para jugar a Halo Flashpoint?",
+          "answer": "Un equipo de fuego estándar de Halo Flashpoint tiene entre tres y seis modelos por bando. Ese número reducido de modelos mantiene las partidas rápidas, asequibles y fáciles de aprender en comparación con los wargames de batallas masivas."
+        },
+        {
+          "question": "¿Cuánto dura una partida de Halo Flashpoint?",
+          "answer": "La mayoría de las partidas de Halo Flashpoint terminan en unos 45 a 90 minutos en un campo de batalla de aproximadamente 60 por 60 a 90 por 90 centímetros, lo que facilita encajar un enfrentamiento en una noche."
+        },
+        {
+          "question": "¿Tengo que pintar mis miniaturas de Halo Flashpoint antes de jugar?",
+          "answer": "No. El plástico desnudo o la imprimación son totalmente válidos, y la mayoría de los jugadores nuevos juegan varias partidas de Halo Flashpoint antes de coger un pincel. La pintura es una capa de hobby por encima de las reglas, no un requisito."
+        },
+        {
+          "question": "¿Cómo se gana realmente una partida de Halo Flashpoint?",
+          "answer": "Halo Flashpoint se gana con los objetivos de misión. Los escenarios definen las condiciones de puntuación, así que un equipo que mantiene la posición y completa objetivos suele ganar a otro que solo persigue bajas."
+        }
+      ]
+    },
+    "finalCta": {
+      "title": "¿Listo para dominar Halo Flashpoint?",
+      "description": "Desde tu primera escaramuza hasta grandes batallas Spartan, nuestro wiki comunitario te ofrece guías gratuitas y actualizadas de reglas, facciones y tácticas.",
+      "primary": "Leer la guía para principiantes",
+      "secondary": "Visitar el sitio oficial"
+    }
+  },
+  "guide": {
+    "overviewTitle": "Guías para principiantes de Halo Flashpoint",
+    "overviewDescription": "¿Nuevo en el juego de escaramuzas de mesa? Estas guías de Halo Flashpoint cubren los sets de inicio, la creación de un primer equipo de fuego y cómo se juega una partida completa, para que pases de abrir la caja a terminar un escenario en una noche."
+  },
+  "rules": {
+    "overviewTitle": "Reglas y reglamento de Halo Flashpoint",
+    "overviewDescription": "El marco común de cada partida de Halo Flashpoint: activaciones alternas, reservas de dados, disparo y cuerpo a cuerpo, cobertura, escudos de energía y las palabras clave impresas en tus cartas de unidad."
+  },
+  "mechanics": {
+    "overviewTitle": "Mecánicas principales de Halo Flashpoint",
+    "overviewDescription": "Línea de visión, creación de listas, puntos, juego de campaña y modos de juego de Halo Flashpoint explicados, para que entiendas por qué un equipo gana o pierde antes de que rueden los dados."
+  },
+  "units": {
+    "overviewTitle": "Unidades y héroes de Halo Flashpoint",
+    "overviewDescription": "Spartans, ODST, Elites, Grunts, Brutes y héroes con nombre desglosados por rol, coste y las misiones en las que cada unidad de Halo Flashpoint se gana su sitio."
+  },
+  "factions": {
+    "overviewTitle": "Facciones de Halo Flashpoint",
+    "overviewDescription": "Compara las fuerzas de la UNSC, el Covenant, los Banished y el Flood para encontrar el estilo de juego de Halo Flashpoint que encaje contigo, desde equipos disciplinados hasta brutales escuadrones de asalto."
+  },
+  "painting": {
+    "overviewTitle": "Pintura y miniaturas de Halo Flashpoint",
+    "overviewDescription": "Lleva un equipo de fuego de la matriz a la mesa con las gamas de miniaturas de Halo Flashpoint, consejos de preparación e imprimación, esquemas de pintura de facción, ideas de terreno y peanas."
+  },
+  "shared": {
+    "wikiNavigation": "Navegación del wiki",
+    "updated": "Actualizado",
+    "inThisSection": "En esta sección",
+    "tableOfContents": "Tabla de contenidos",
+    "nextSteps": "Próximos pasos",
+    "needHelp": "¿Necesitas ayuda?",
+    "relatedReading": "Lecturas relacionadas",
+    "relatedGuides": "Guías relacionadas",
+    "readMore": "Leer más",
+    "officialMedia": "Medios oficiales",
+    "home": "Inicio",
+    "noGuidesAvailable": "Aún no hay guías disponibles. ¡Vuelve pronto!",
+    "quickStart": "Inicio rápido",
+    "viewCoreRules": "Ver reglas básicas"
+  },
+  "footer": {
+    "aboutTitle": "Wiki de Halo Flashpoint",
+    "about": "El wiki de Halo Flashpoint es un centro de guías independiente creado por fans que cubre reglas básicas, facciones, miniaturas, técnicas de pintura y conocimientos esenciales de mesa, tanto para jugadores nuevos como veteranos.",
+    "description": "Juego táctico de escaramuzas de miniaturas sobre mesa ambientado en el universo de Halo.",
+    "quickLinks": "Enlaces rápidos",
+    "guides": "Guías",
+    "playGame": "Sitio oficial de Halo Flashpoint",
+    "officialYoutube": "Canal oficial de YouTube",
+    "officialReddit": "Comunidad de Halo (Reddit)",
+    "beginnerGuide": "Guía para principiantes",
+    "privacyPolicy": "Política de privacidad",
+    "termsOfService": "Términos de servicio",
+    "copyright": "2026 Wiki de Halo Flashpoint. Sin afiliación con Microsoft, 343 Industries ni Mantic Games.",
+    "coreRules": "Reglas básicas",
+    "factionGuides": "Guías de facciones",
+    "unitGuides": "Guías de unidades",
+    "paintingGuide": "Guía de pintura"
+  }
+}
